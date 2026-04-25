@@ -157,3 +157,8 @@ Trained with the **Adam optimizer** and **categorical crossentropy** loss.
 ## 🤝 Contributing
 
 This project was built to assist the deaf and hard-of-hearing community. Contributions, new gesture classes, and dataset improvements are welcome!
+
+
+Author: Mohammad Ahmad Khan 
+Institution: Frankfurt University of Applied Sciences 
+Semester: Winter 2025/2026
